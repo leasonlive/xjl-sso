@@ -1,2 +1,2 @@
 # xjl-sso
-single sign on
+single sign on cas server
